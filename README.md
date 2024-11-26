@@ -1,38 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural or Fake Natty? How to Succeed in the Era of Generative AIs
 
+## Extremely Aesthetic Project Title ;)
+**FitForge**
 
-## Título do Projeto Extremamente Aesthetic ;)
-FitForge
+## 📒 Description
+🏋️ **Fit Forge Workout Log** allows you to effortlessly track your daily workouts. Whether it's cardio, weightlifting, or yoga, you can log all your exercises in one convenient place.
 
+💧 **Water Intake Tracker**  
+Hydration is a crucial part of health and fitness. Fit Forge lets you easily monitor how much water you drink each day.
 
-## 📒 Descrição
-🏋️ O Fit Forge Workout Log permite que você registre seus treinos diários com facilidade. Quer seja cardio, levantamento de peso ou ioga, você pode manter um registro de todos os seus exercícios em um só lugar.
+⏱️ **Timer**  
+Whether you're doing high-intensity intervals or timing rest between sets, our integrated timer makes it simple and seamless.
 
-💧Registro de consumo de água A hidratação é uma parte crucial da saúde e da boa forma. Com o Fit Forge, você pode monitorar facilmente quanta água você bebe por dia.
+📚 **Workout History**  
+Track your progress over time with our workout history feature. See what exercises you did, when you did them, and how you've improved.
 
-⏱️ Cronômetro Esteja você fazendo intervalos de alta intensidade ou medindo o tempo de descanso entre as séries, nosso cronômetro integrado torna isso simples e fácil.
+💾 **Data Export**  
+Fit Forge allows you to export your workout data, so you can analyze it in your favorite data analysis software or share it with your trainer.
 
-📚 Histórico de treino Acompanhe seu progresso ao longo do tempo com nosso recurso de histórico de treino. Veja quais exercícios você fez, quando os fez e como melhorou.
+📅 **Workout Routine Builder**  
+With Fit Forge, you can create your own personalized workout routine. Set which muscles to train each day, and let the app guide you through each session.
 
-💾 Exportação de dados O Fit Forge permite exportar os dados do seu treino para que você possa analisá-los em seu software de análise de dados favorito ou compartilhá-los com seu treinador.
-
-📅 Criação de rotina de treino Com o Fit Forge, você pode criar sua própria rotina de treino personalizada. Defina quais músculos serão treinados a cada dia e deixe o aplicativo guiá-lo em cada treino.
-
-
-## 🤖 Tecnologias Utilizadas
+## 🤖 Technologies Used
 <ul>
   <li>Chat GPT</li>
   <li>GitHub Copilot</li>
   <li>Windows Copilot</li>
-  <li>Gerador de imagens canvas</li>
+  <li>Canvas Image Generator</li>
 </ul>
 
-## 🧐 Processo de Criação
-Ao conceber o aplicativo, a ideia inicial foi resgatar um projeto desenvolvido há oito meses. No entanto, buscamos ir além: nosso objetivo principal era revolucionar, incorporando não apenas uma estética renovada, mas também introduzindo funcionalidades e recursos inovadores, resultado do aprendizado e evolução ao longo desse período.
+## 🧐 Development Process
+When conceptualizing the app, the initial idea was to revisit a project developed eight months ago. However, we aimed to go beyond: the primary goal was to revolutionize, incorporating not just a refreshed aesthetic but also innovative functionalities and features, a result of the learning and growth throughout this period.
 
-## 🚀 Resultados
+## 🚀 Results
+After months of intense work and dedication, the project outcomes exceeded all expectations. The app underwent a remarkable transformation in aesthetics and became a powerhouse of functionality. With the integration of new and innovative features, it not only met but surpassed user needs and expectations.
 
-Após intensos meses de trabalho e dedicação, os resultados do projeto excederam todas as expectativas. O aplicativo não apenas passou por uma transformação impressionante em sua estética, mas também se tornou uma potência em termos de funcionalidade. Com a integração de novas e inovadoras características, consegui não só atender, mas superar as necessidades e expectativas dos usuários. 
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflection (Optional)
+Discuss the challenge of creating something 'natty' with the help of AI.
